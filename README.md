@@ -4,6 +4,7 @@ This repository contains data and R files for the paper "Metabolism of pain mana
 
 List of data files:
 - filename1
-
-List of R files
-- 
+- filename2
+List of R files:
+- filename1
+- filename2
